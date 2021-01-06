@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/freight-dashboard/static/js/main.bffffd0c.chunk.js",
+    "main.js.map": "/freight-dashboard/static/js/main.bffffd0c.chunk.js.map",
+    "runtime-main.js": "/freight-dashboard/static/js/runtime-main.2e37bb46.js",
+    "runtime-main.js.map": "/freight-dashboard/static/js/runtime-main.2e37bb46.js.map",
+    "static/css/2.5c985af2.chunk.css": "/freight-dashboard/static/css/2.5c985af2.chunk.css",
+    "static/js/2.e7dd5155.chunk.js": "/freight-dashboard/static/js/2.e7dd5155.chunk.js",
+    "static/js/2.e7dd5155.chunk.js.map": "/freight-dashboard/static/js/2.e7dd5155.chunk.js.map",
+    "index.html": "/freight-dashboard/index.html",
+    "precache-manifest.27f0e5b99dda21b241da037cb70beea7.js": "/freight-dashboard/precache-manifest.27f0e5b99dda21b241da037cb70beea7.js",
+    "service-worker.js": "/freight-dashboard/service-worker.js",
+    "static/css/2.5c985af2.chunk.css.map": "/freight-dashboard/static/css/2.5c985af2.chunk.css.map",
+    "static/js/2.e7dd5155.chunk.js.LICENSE.txt": "/freight-dashboard/static/js/2.e7dd5155.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/freight-dashboard/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/google.svg": "/freight-dashboard/static/media/google.695a3160.svg",
+    "static/media/logo.svg": "/freight-dashboard/static/media/logo.a0185b04.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e37bb46.js",
+    "static/css/2.5c985af2.chunk.css",
+    "static/js/2.e7dd5155.chunk.js",
+    "static/js/main.bffffd0c.chunk.js"
+  ]
+}
