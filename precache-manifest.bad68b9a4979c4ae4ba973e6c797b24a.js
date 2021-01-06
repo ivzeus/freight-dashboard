@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1cd91e299d710c82c72d2f081b899f5",
+    "revision": "8f0a8d94f553a2b2ed4df53655d43979",
     "url": "/freight-dashboard/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freight-dashboard/static/js/2.3dd4e0f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19a14aae838c1a4a43d0",
-    "url": "/freight-dashboard/static/js/main.a4498754.chunk.js"
+    "revision": "e14118e8a339d3d1b55c",
+    "url": "/freight-dashboard/static/js/main.496dca06.chunk.js"
   },
   {
     "revision": "b58055ecb85c863bcc60",
