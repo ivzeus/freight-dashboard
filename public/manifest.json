@@ -1,6 +1,6 @@
 {
-  "short_name": "React Material Admin",
-  "name": "React Material Admin is a React Template built with Material-UI",
+  "short_name": "MCF",
+  "name": "Simple international air & sea shipment administration dashboard",
   "icons": [
     {
       "src": "favicon.ico",

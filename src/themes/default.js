@@ -1,5 +1,8 @@
 import tinycolor from "tinycolor2";
 
+/// HNToan
+const sidebarBackgroundColor = "#590b0b";
+
 const primary = "#536DFE";
 const secondary = "#FF5C93";
 const warning = "#FFC260";
