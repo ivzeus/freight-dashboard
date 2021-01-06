@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/freight-dashboard/precache-manifest.27f0e5b99dda21b241da037cb70beea7.js"
+  "/freight-dashboard/precache-manifest.6494376ba45f1a23c6f1378ff336d598.js"
 );
 
 self.addEventListener('message', (event) => {
